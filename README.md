@@ -70,7 +70,7 @@ screen -S kenshi
 # Başlatalım
 unchained start conf.yaml --generate
 
-# eğer hata verirse
+# eğer hata verirse (veya yukarıdaki komutun başına sudo eklenebilir)
 sudo chmod +777 conf.yaml
 
 > CTRL A D ile screenden çıkıyoruz.
