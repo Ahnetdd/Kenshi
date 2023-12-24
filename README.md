@@ -70,7 +70,7 @@ screen -S kenshi
 # Başlatalım
 unchained start conf.yaml --generate
 
-#tekrar secret key almamak için başlatma komutunu aşağıdaki şekilde giriyoruz.
+# Tekrar secret key almamak için başlatma komutunu aşağıdaki şekilde giriyoruz.
 unchained start conf.yaml
 
 # eğer hata verirse (veya yukarıdaki komutun başına sudo eklenebilir)
